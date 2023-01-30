@@ -154,3 +154,9 @@
         width: 95%;
     }
 }
+
+@media screen and (min-width: 700px) {
+    .category.single-category .products-container .product {
+        margin: 15px !important;
+    }
+}
